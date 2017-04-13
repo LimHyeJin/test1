@@ -7,6 +7,7 @@
 		System.out.println("4.김민성");
 		System.out.println("5.김민준");
 		System.out.println("6.김승찬");
+		System.out.println("7.김우영");
 	}
 
 }
