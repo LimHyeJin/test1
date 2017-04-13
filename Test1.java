@@ -3,6 +3,7 @@
 
 		System.out.println("1.고현서");
 		System.out.println("2.김경운");
+		System.out.println("3.김동현");
 
 	}
 
