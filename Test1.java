@@ -13,6 +13,7 @@
 		System.out.println("8.김준석");
 		System.out.println("충돌");
 		System.out.println("원격저장소");
+		System.out.println("원격저장소");
 
 	}
 
